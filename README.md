@@ -1,38 +1,34 @@
+# Hello world !🌥️, <br> I'm `Mohith` 👨‍💻
+
+- 🧠 Currently learning **Docker🐋**
+- 🍀 interested in **Building websites**
+- 📍 CSE Undergrad at **SRMAP**
+
+### 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind](https://img.shields.io/badge/tailwind-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
 
 
-<!--
-**mohith0407/mohith0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohith0407&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohith0407&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+</div>
+<br />
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+<p align="center">
+<a href="https://github.com/mohith0407"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://https://www.linkedin.com/in/mohith-hanumanthkar-0407raj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohithknl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, my name is Mohith
-#### #WebDevelopment #DevOps
-I am a Web Developer and an upcoming DevOps engineer 
-
-Skills: NodeJs / ReactJs / JS / HTML / CSS
-
-- 🔭 I’m currently working on A 3rd year student 
-- 🌱 I’m currently learning DevOps 
-- 👯 I’m looking to collaborate on Web development 
-- ⚡ Fun fact: CSE won't be a engineer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohith0407) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/mohith-hanumanthkar-0407raj/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohith_raj0407/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mohith_Raj)  
-
-
-
-
-
-
-
+---
+## Extras:
+<details>
+  <summary>Profile Views</summary>
+  <img src="https://badges.pufler.dev/visits/mohith0407/0407" alt="Visits Badge">
+</details>
