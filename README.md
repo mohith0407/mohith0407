@@ -1,6 +1,6 @@
 # Hello world !🌥️, <br> I'm `Mohith` 👨‍💻
 
-- 🧠 Currently learning **Docker🐋**
+- 🧠 Currently learning **Docker🐋** and **kubernetes**
 - 🍀 interested in **Building websites**
 - 📍 CSE Undergrad at **SRMAP**
 
