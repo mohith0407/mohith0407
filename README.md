@@ -15,7 +15,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohith0407&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+<!--   <img src="" alt="GitHub Streak Stats"> -->
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohith0407)](https://git.io/streak-stats) -->
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohith0407" alt="GitHub Streak" />GitHub streaks</a> -->
 </div>
 <br />
 
