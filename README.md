@@ -1,7 +1,7 @@
 # Hello world !🌥️, <br> I'm `Mohith` 👨‍💻
 
-- 🧠 Currently focusing on **Web Development**
-- 🍀 interested in **Building websites**
+- 🧠 Currently focusing on **GraphQL** and **Kafka**
+- 🍀 Interested in **Building websites**
 - 📍 CSE Undergrad at **SRMAP**
 
 ### 💻 Tech Stack:
