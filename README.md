@@ -10,17 +10,21 @@
 ---
 <!--![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohith0407&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
+<div align="left"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith0407&theme=dark&show_icons=true&locale=en&layout=compact" alt="Mohith0407" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohith0407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
+</div>
+
 <br/>
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <img src="" alt="GitHub Streak Stats"> -->
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohith0407)](https://git.io/streak-stats) -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohith0407" alt="GitHub Streak" />GitHub streaks</a> -->
-</div>
+<!-- </div> -->
 <br />
+
 
 ## 🌐 Socials:
 <p align="center">
